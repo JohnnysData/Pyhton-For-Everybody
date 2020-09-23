@@ -1,4 +1,4 @@
-# Pyhton For Everybody Specialization
+# Pyhton for Everybody Specialization
 
 **Python for Everybody** specialization is offered by University of Michigan and taught by Dr.Charles R Severance.   
 
