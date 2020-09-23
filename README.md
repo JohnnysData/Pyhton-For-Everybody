@@ -15,6 +15,6 @@ This specialization includes 5 courses
 ## Additional Material
 
 All additional course materials also can be found [here](https://www.py4e.com/).  
-Link to the reference book for this course: [Book](https://www.py4e.com/book).
+Link to the reference book for this course can be found [here](https://www.py4e.com/book).
 
 !()
