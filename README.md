@@ -1,1 +1,1 @@
-# Pyhton-For-Everybody
+# Pyhton For Everybody
