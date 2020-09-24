@@ -6,10 +6,10 @@
 
 This specialization includes 5 courses
 
-1. [Getting started with Python]()
-2. [Python Data Structures]()
-3. [Using Python to Access Web Data]()
-4. [Using Databases with Python]()
+1. [Getting started with Python](https://github.com/JohnnysData/Pyhton-For-Everybody/tree/master/Course%201.%20Getting%20started%20with%20Python)
+2. [Python Data Structures](https://github.com/JohnnysData/Pyhton-For-Everybody/tree/master/Course%202.%20Python%20Data%20Structures)
+3. [Using Python to Access Web Data](https://github.com/JohnnysData/Pyhton-For-Everybody/tree/master/Course%203.%20Using%20Python%20to%20Access%20Web%20Data)
+4. [Using Databases with Python](https://github.com/JohnnysData/Pyhton-For-Everybody/tree/master/Course%204.%20Using%20Databases%20with%20Python)
 5. [Capstone: Retrieving Processing and Visualizing Data with Python]()
 
 ## Additional Material
