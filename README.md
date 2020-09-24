@@ -2,6 +2,8 @@
 
 **Python for Everybody** specialization is offered by University of Michigan and taught by Dr.Charles R Severance.   
 
+This repo includes my solutions to all the assignments from this specialization.
+
 ## Overview
 
 This specialization includes 5 courses
@@ -10,7 +12,7 @@ This specialization includes 5 courses
 2. [Python Data Structures](https://github.com/JohnnysData/Pyhton-For-Everybody/tree/master/Course%202.%20Python%20Data%20Structures)
 3. [Using Python to Access Web Data](https://github.com/JohnnysData/Pyhton-For-Everybody/tree/master/Course%203.%20Using%20Python%20to%20Access%20Web%20Data)
 4. [Using Databases with Python](https://github.com/JohnnysData/Pyhton-For-Everybody/tree/master/Course%204.%20Using%20Databases%20with%20Python)
-5. [Capstone: Retrieving Processing and Visualizing Data with Python]()
+5. Capstone: Retrieving Processing and Visualizing Data with Python
 
 ## Additional Material
 
